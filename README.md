@@ -1,4 +1,4 @@
-👋 Hi, My name is Mathew and I am skillful, self-organized and industry tutored DevOps engineer with 2 years of experience developing and optimizing (existing) infrastructure-related components, with a good understanding of Infrastructure-as-a-Code concepts. I am from Nigeria and currently working with Tek Experts. You can find me on https://www.linkedin.com/in/nnangmathew.
+👋 Hi, My name is Mathew and I am skillful, self-organized and industry tutored DevOps engineer with years of experience developing and optimizing (existing) infrastructure-related components, with a good understanding of Infrastructure-as-a-Code concepts. I am from Nigeria and currently working with Tek Experts. You can find me on https://www.linkedin.com/in/nnangmathew.
 
 ✍ Blog & contents
 - Apart from coding, I am recently proferring shorter and efficient procedures to manage organizations infrastructure. You can find my contents here:  	https://medium.com/@nnangmathew. Also, as a hobby, I make animation videos to capture basic IT concepts. You can also find some of my contents here: https://www.youtube.com/channel/UC5k8wUHmaMY5KJ8WVYnEnsA
